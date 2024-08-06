@@ -19,10 +19,15 @@ Setup and Usage
 Clone the Repository: Download the code to your local machine.
 
 code functionality
+
 python password_generator.py
+
 Interact with the GUI:
+
 Site: Enter the site name for which the password is being created.
+
 Password Length: Specify the total length of the password.
+
 Uppercase Letters: Define the number of uppercase letters.
 Lowercase Letters: Define the number of lowercase letters.
 Numbers: Specify the number of numeric characters.
